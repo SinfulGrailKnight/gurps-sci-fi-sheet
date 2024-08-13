@@ -36,8 +36,8 @@
   --gb-labelAcc: 'Acc ';
   --gb-labelBulk: 'Bulk ';
   /*--gb-backgroundColor: rgb(255, 245, 236);*/
-  --gb-background-image: url(../assets/images/hexabg.jpg);
-  --gb-background: repeat;
+    background-image: url(../assets/images/hexabg.jpg);
+    background: repeat;
   --gb-backgroundColorBottom: papayawhip;
   --gb-backgroundColorPopup: lightgrey;
   --gb-backgroundColorRollable: gold;
