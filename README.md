@@ -2,6 +2,8 @@
 
 Testing fork of GURPS Quick Reference Character Sheet by Gaming Ballistic. Just fooling around to see what I can do on it's base, for my amigos who got soft paws instead of hands, and softer brains.
 
+___________________________________________________________________________________________________________
+
 For more Dungeon Fantasy RPG (Powered by GURPS) material see [Gaming Ballistic](https://gaming-ballistic.myshopify.com/collections/all-products?filter.p.m.my_fields.collection=Dungeon+Fantasy+RPG+%28Powered+by+GURPS%29&sort_by=title-ascending).
 
 Dungeon Fantasy RPG is copyright ©1980, 2018–2024 by Steve Jackson Games Incorporated. Dungeon Fantasy RPG, the pyramid logo, and the names of all products published by Steve Jackson Games Incorporated are trademarks or registered trademarks of Steve Jackson Games Incorporated, and used under license. All rights reserved.
