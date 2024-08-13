@@ -1,14 +1,6 @@
-# GURPS Quick Reference Character Sheet
+# GURPS Sci-Fi Character Sheet
 
-Latest release manifest can always be found here:
-
-https://github.com/mjeffw/gurps-quick-reference-sheet/releases/download/latest/module.json
-
-[Change log](./changelog.md)
-
-The clean, compact, and beautiful GURPS character sheet created by Gaming Ballistic for Saethor's Bane for DFRPG module, as a standalone character sheet for any GURPS Game Aid (GGA) actor.
-
-![Alt Text](./website/actor-sheets.png)
+Testing fork of GURPS Quick Reference Character Sheet by Gaming Ballistic. Just fooling around to see what I can do on it's base, for my amigos who got soft paws instead of hands, and softer brains.
 
 For more Dungeon Fantasy RPG (Powered by GURPS) material see [Gaming Ballistic](https://gaming-ballistic.myshopify.com/collections/all-products?filter.p.m.my_fields.collection=Dungeon+Fantasy+RPG+%28Powered+by+GURPS%29&sort_by=title-ascending).
 
