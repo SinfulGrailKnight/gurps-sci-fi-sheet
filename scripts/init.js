@@ -159,7 +159,7 @@ export default async function init(module) {
     })
 
   //  globalThis.GURPS = GURPS
-  const GBQuickReferenceSheet = (await import('./gb-quickref-sheet.js')).default
+  const GBQuickReferenceSheet = (await import('./gurps-sci-fi-sheet.js')).default
 
   Actors.registerSheet('gurps', GBQuickReferenceSheet, {
     types: ['enemy', 'character'],
