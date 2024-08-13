@@ -1,27 +1,27 @@
 @font-face {
   font-family: HeadingFont;
-  src: url(../assets/fonts/IMFellEnglish-Regular.ttf);
+  src: url(../assets/fonts/batmfa__.ttf);
 }
 
 @font-face {
   font-family: Aramante;
-  src: url(../assets/fonts/amarante-regular.ttf);
+  src: url(../assets/fonts/batmfo__.ttf);
 }
 
 @font-face {
   font-family: BestiaryText;
-  src: url(../assets/fonts/texgyrebonum-bold.otf);
+  src: url(../assets/fonts/ethnocentric\ rg.otf);
   font-weight: 600 900;
 }
 
 @font-face {
   font-family: BestiaryText;
-  src: url(../assets/fonts/texgyrebonum-regular.otf);
+  src: url(../assets/fonts/ethnocentric\ rg.otf);
 }
 
 @font-face {
   font-family: SecondaryLabel;
-  src: url(../assets/fonts/MyriadPro-BoldCond.otf);
+  src: url(../assets/fonts/ethnocentric\ rg.otf);
 }
 
 .gb-quick-reference {
