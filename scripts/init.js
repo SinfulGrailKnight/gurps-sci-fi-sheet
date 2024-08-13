@@ -159,12 +159,12 @@ export default async function init(module) {
     })
 
   //  globalThis.GURPS = GURPS
-  const GBQuickReferenceSheet = (await import('./gurps-sci-fi-sheet.js')).default
+  const GURPSSciFiSheet = (await import('./gurps-sci-fi-sheet.js')).default
 
-  Actors.registerSheet('gurps', GBQuickReferenceSheet, {
+  Actors.registerSheet('gurps', GURPSSciFiSheet, {
     types: ['enemy', 'character'],
-    label: 'GB Quick Reference Sheet',
-    makeDefault: false,
+    label: 'GURPS Sci-Fi Sheet',
+    makeDefault: true,
   })
 
   function convertToDamageAccum(ranged, regex) {
