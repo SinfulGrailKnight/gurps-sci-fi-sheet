@@ -1,6 +1,6 @@
 {
-  "id": "gurps-quick-reference-sheet",
-  "title": "Gaming Ballistic's GURPS Quick Reference Character Sheet",
+  "id": "gurps-sci-fi-sheet",
+  "title": "GURPS Sci-Fi Character Sheet",
   "version": "1.1.1",
   "compatibility": {
     "minimum": "11",
@@ -20,24 +20,19 @@
   },
   "authors": [
     {
-      "name": "Douglas Cole",
-      "url": "https://gaming-ballistic.myshopify.com",
+      "name": "Htoner Rokh",
+      "url": "t.me/htoner",
       "patreon": "https://www.patreon.com/GamingBallistic",
-      "discord": "Douglas (Gaming Ballistic)#2658"
-    },
-    {
-      "name": "M. Jeff Wilson",
-      "discord": "Nick Coffin, PI#8616",
-      "email": "nick.coffin_pi@icloud.com"
+      "discord": "htoner Hedonistic Knight#0278"
     }
   ],
   "styles": [
-    "./styles/gb-quick-reference.css"
+    "./styles/gurps-sci-fi-sheet.css"
   ],
   "esmodules": [
-    "./gurps-quick-reference-sheet.js"
+    "./gurps-sci-fi-sheet.js"
   ],
-  "url": "https://github.com/mjeffw/gurps-quick-reference-sheet",
-  "manifest": "https://github.com/mjeffw/gurps-quick-reference-sheet/releases/download/v1.1.1/module.json",
-  "download": "https://github.com/mjeffw/gurps-quick-reference-sheet/releases/download/v1.1.1/gurps-quick-reference-sheet.zip"
+  "url": "https://github.com/SinfulGrailKnight/gurps-sci-fi-sheet/tree/test",
+  "manifest": "https://github.com/SinfulGrailKnight/gurps-sci-fi-sheet/tree/test/releases/download/V1.0/module.json",
+  "download": "https://github.com/SinfulGrailKnight/gurps-sci-fi-sheet/tree/test/releases/download/V1.0/gurps-sci-fi-sheet.zip"
 }
