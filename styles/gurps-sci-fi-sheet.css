@@ -1,27 +1,27 @@
 @font-face {
   font-family: HeadingFont;
-  src: url(../assets/fonts/CfNotcheDemoBold-5y1eB.otf);
+  src: url(../assets/fonts/recharge.rg-bold.otf);
 }
 
 @font-face {
   font-family: Aramante;
-  src: url(../assets/fonts/CfNotcheDemoRegular-6RYWg.otf);
+  src: url(../assets/fonts/recharge.rg-bold.otf);
 }
 
 @font-face {
   font-family: BestiaryText;
-  src: url(../assets/fonts/CfNotcheDemoRegular-6RYWg.otf);
+  src: url(../assets/fonts/recharge.rg-bold.otf);
   font-weight: 600 900;
 }
 
 @font-face {
   font-family: BestiaryText;
-  src: url(../assets/fonts/CfNotcheDemoRegular-6RYWg.otf);
+  src: url(../assets/fonts/recharge.rg-bold.otf);
 }
 
 @font-face {
   font-family: SecondaryLabel;
-  src: url(../assets/fonts/CfNotcheDemoBold-5y1eB.otf);
+  src: url(../assets/fonts/recharge.rg-bold.otf);
 }
 
 .gb-quick-reference {
