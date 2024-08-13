@@ -35,9 +35,7 @@
   --gb-borderRadius: 3px;
   --gb-labelAcc: 'Acc ';
   --gb-labelBulk: 'Bulk ';
-  /*--gb-backgroundColor: rgb(255, 245, 236);*/
-    background-image: url(../assets/images/hexabg.jpg);
-    background: repeat;
+  --gb-backgroundColor: rgb(255, 245, 236);
   --gb-backgroundColorBottom: papayawhip;
   --gb-backgroundColorPopup: lightgrey;
   --gb-backgroundColorRollable: gold;
@@ -120,7 +118,8 @@
 
 .gb-quickref-sheet form {
   padding: 0 var(--gb-standardSpacing) 0 var(--gb-standardSpacing);
-  background-color: var(--gb-backgroundColor);
+  background-image: url(../assets/images/hexabg.jpg);
+  background-repeat: repeat;
 }
 
 .gb-quick-reference #bottom-border {
