@@ -120,15 +120,7 @@
   padding: 0 var(--gb-standardSpacing) 0 var(--gb-standardSpacing);
   /*background-image: url(../assets/images/hexabg.jpg);
   background-repeat: repeat;*/
-    background-image: radial-gradient(#003333 25%, #000);
-    display: block;
-    overflow: hidden;
-    position: absolute;
-    z-index: -1;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
+  background-color: var(--gb-backgroundColor);
 }
 
 .gb-quick-reference #bottom-border {
