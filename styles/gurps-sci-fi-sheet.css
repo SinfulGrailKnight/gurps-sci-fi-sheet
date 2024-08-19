@@ -43,8 +43,8 @@
   --gb-backgroundColorModActive: rgb(158, 87, 0);
   --gb-pagerefhover: 0 0 5px lightcoral;
   --gb-dropshadow: 2px 2px 4px grey;
-  --gb-imageBorderTop: url(../assets/images/sci-fi-header.png);
-  --gb-imageBorderBottom: url(../assets/images/sci-fi-header.png);
+  --gb-imageBorderTop: url(../assets/images/gb_border_top.webp);
+  --gb-imageBorderBottom: url(../assets/images/gb_border_bottom.webp);
   --gb-topBorderHeight: 55px;
   --gb-bottomColumnTemplate: 6.5% 6.2% auto 6.5% 7.5%;
   --gb-pageRefBackground: none;
@@ -103,7 +103,7 @@
   margin: 0 calc(-1 * var(--gb-standardSpacing));
   min-height: var(--gb-topBorderHeight);
   background-image: var(--gb-imageBorderTop);
-  background-size: 100%; var(--gb-topBorderHeight);
+  background-size: 100% var(--gb-topBorderHeight);
   background-repeat: no-repeat;
   filter: drop-shadow(var(--gb-dropshadow));
 }
@@ -120,7 +120,15 @@
   padding: 0 var(--gb-standardSpacing) 0 var(--gb-standardSpacing);
   /*background-image: url(../assets/images/hexabg.jpg);
   background-repeat: repeat;*/
-  background-color: rgb(173, 216, 230);
+    background-image: radial-gradient(#003333 25%, #000);
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .gb-quick-reference #bottom-border {
