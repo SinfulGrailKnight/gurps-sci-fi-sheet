@@ -120,6 +120,7 @@
   padding: 0 var(--gb-standardSpacing) 0 var(--gb-standardSpacing);
   background-image: url(../assets/images/hexabg.jpg);
   background-repeat: repeat;
+  background-size: 10%;
 }
 
 .gb-quick-reference #bottom-border {
