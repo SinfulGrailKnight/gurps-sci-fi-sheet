@@ -68,7 +68,7 @@
 
 .gb-quick-reference.bugstiary {
   --gb-backgroundColor: rgb(253, 246, 236);
-  --gb-imageBorderTop: url(../assets/images/bugstiary_border_top.webp);
+  --gb-imageBorderTop: url(../assets/images/sci-fi-header.png);
   --gb-imageBorderBottom: url(../assets/images/bugstiary_border_bottom.webp);
   --gb-bottomColumnTemplate: 4.7% 6.5% auto 6.5% 4.2%;
   --gb-pageRefMargins: 10px 0 15px 0;
@@ -120,7 +120,7 @@
   padding: 0 var(--gb-standardSpacing) 0 var(--gb-standardSpacing);
   background-image: url(../assets/images/hexabg.jpg);
   background-repeat: repeat;
-  background-size: 10%;
+  background-size: 25%;
 }
 
 .gb-quick-reference #bottom-border {
