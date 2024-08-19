@@ -101,7 +101,7 @@
 
 .gb-quickref-sheet .gb-top-border {
   margin: 0 calc(-1 * var(--gb-standardSpacing));
-  /*min-height: var(--gb-topBorderHeight);*/
+  min-height: var(--gb-topBorderHeight);
   background-image: var(--gb-imageBorderTop);
   background-size: 100%; /*var(--gb-topBorderHeight);*/
   background-repeat: no-repeat;
