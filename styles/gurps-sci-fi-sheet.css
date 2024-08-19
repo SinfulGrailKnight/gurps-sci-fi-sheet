@@ -108,13 +108,13 @@
   filter: drop-shadow(var(--gb-dropshadow));
 }
 
-/*.gb-quickref-sheet .gb-top-border img {
+.gb-quickref-sheet .gb-top-border img {
   border: none;
   filter: drop-shadow(2px 2px 4px grey);
   width: 100%;
   object-fit: cover;
   border-radius: unset;
-}*/
+}
 
 .gb-quickref-sheet form {
   padding: 0 var(--gb-standardSpacing) 0 var(--gb-standardSpacing);
